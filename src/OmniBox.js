@@ -1,4 +1,4 @@
-import react, {Component} from 'react';
+import React, {Component} from 'react';
 import { TextInput} from 'react-native';
 import TodoModel from './TodoModel'
 import Utils from './Utils'
